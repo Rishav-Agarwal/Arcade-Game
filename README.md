@@ -1,7 +1,7 @@
 Arcade-Game
 ===============================
 
-[Memory game](https://rishav-agarwal.github.io/Arcade-Game/) made as a part of Front end web developer Google-Udacity scholarship program.
+[Arcade game](https://rishav-agarwal.github.io/Arcade-Game/) made as a part of Front end web developer Google-Udacity scholarship program.
 
 How to use?
 -------------------------------
