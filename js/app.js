@@ -103,7 +103,7 @@ class Player {
             setTimeout(() => {
                 this.y = 83*5 - 20;
                 this.x = 101*2;
-            }, 200);
+            }, 500);
         }
     }
 }
